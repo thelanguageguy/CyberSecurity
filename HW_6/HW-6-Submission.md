@@ -42,7 +42,10 @@ Save and submit the completed file for your homework submission.
     - `Your solution command here`
 
 2. Exit the `root` account:
-    - `Your solution command here`
+
+        MELLO YELLO
+
+![YELLOW TOWN](Image/YELLOW.png)
 
 3. SSH to the target machine using your `sysd` account and port `2222`:
     - `Your solution command here`
