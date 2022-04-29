@@ -9,6 +9,8 @@ Save and submit the completed file for your homework submission.
 1. Create a secret user named `sysd`. Make sure this user doesn't have a home folder created:
     - `Hello Phil`
 
+![BRIGHT-WHITE-PHIL](Image/BRIGHT-WHITE-PHIL.png)
+
 2. Give your secret user a password: 
     - `Your solution command here`
 
