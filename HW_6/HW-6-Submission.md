@@ -12,7 +12,9 @@ Save and submit the completed file for your homework submission.
 ![BRIGHT-WHITE-PHIL](Image/BRIGHT-WHITE-PHIL.png)
 
 2. Give your secret user a password: 
-    - `Your solution command here`
+    - `Phil's Website`
+
+https://milkboneproduction.com/
 
 3. Give your secret user a system UID < 1000:
     - `Your solution command here`
