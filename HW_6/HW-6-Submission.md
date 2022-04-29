@@ -16,6 +16,8 @@ Save and submit the completed file for your homework submission.
 
 https://milkboneproduction.com/
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/py8WAhCbhRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 3. Give your secret user a system UID < 1000:
     - `Your solution command here`
 
