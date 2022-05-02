@@ -1,7 +1,7 @@
 ## Week 4 Homework Submission File: Linux Systems Administration
 
 
-![PERMISSION REQUIRED](HW-4-Image\PERMISSION-REQUIRED.jpg)
+![PERMISSION REQUIRED](HW-4-Image/PERMISSION-REQUIRED.jpg)
 ### Step 1: Ensure/Double Check Permissions on Sensitive Files
 
 1. Permissions on `/etc/shadow` should allow only `root` read and write access.
@@ -69,13 +69,13 @@
     - Screenshot of report output:
 
 
-![WARNINGS](HW-4-Image\LynisAudit-WARNINGS.png)
+![WARNINGS](HW-4-Image/LynisAudit-WARNINGS.png)
 
-![SUGGESTIONS](HW-4-Image\LynisAudit-SUGGESTIONS.png)
+![SUGGESTIONS](HW-4-Image/LynisAudit-SUGGESTIONS.png)
 
-![SCAN DETAILS](HW-4-Image\LynisAudit-SCAN-DETAILS.png)
+![SCAN DETAILS](HW-4-Image/LynisAudit-SCAN-DETAILS.png)
 
-![SELF DESTRUCT](HW-4-Image\LynisAudit-SELF-DESTRUCT.jfif)
+![SELF DESTRUCT](HW-4-Image/LynisAudit-SELF-DESTRUCT.jfif)
 
 (gfycat.com)
 
@@ -90,9 +90,9 @@
     - Screenshot of end of sample output:
 
 
-![CHKROOTKIT REPORT](HW-4-Image\CHKROOTKIT-REPORT.gif)
+![CHKROOTKIT REPORT](HW-4-Image/CHKROOTKIT-REPORT.gif)
 
-![SUDO](HW-4-Image\SUDO.png)
+![SUDO](HW-4-Image/SUDO.png)
 
 (hackaday.com)
 ---
