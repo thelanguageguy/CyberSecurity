@@ -32,7 +32,7 @@
 
 1. Add user accounts for `sam`, `joe`, `amy`, `sara`, and `admin`.
 
-    - Command to add each user account (include all five users): <sudo adduser sam joe amy sara admin>
+    - Command to add each user account (include all five users): sudo adduser sam joe amy sara admin 
 
 2. Ensure that only the `admin` has general sudo access.
 
@@ -42,7 +42,7 @@
 
 1. Add an `engineers` group to the system.
 
-    - Command to add group: <sudo addgroup engineers>
+    - Command to add group: sudo addgroup engineers
 
 2. Add users `sam`, `joe`, `amy`, and `sara` to the managed group.
 
@@ -62,7 +62,7 @@
 
 2. Command to see documentation and instructions: <lynis --help>
 
-3. Command to run an audit: <sudo lynis audit system>
+3. Command to run an audit: sudo lynis audit system
 
 4. Provide a report from the Lynis output on what can be done to harden the system.
 
